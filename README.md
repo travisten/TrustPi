@@ -1,5 +1,4 @@
-# TrustPi
-TrustPi – A secure escrow service powered by Pi Network, enabling trustless transactions for real estate, services, and digital goods.
+
 # TrustPi
 TrustPi is a decentralized escrow service for secure transactions using Pi Network. It allows users to safely buy, sell, and trade goods or services with built-in escrow protection.
 
